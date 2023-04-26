@@ -1,0 +1,15 @@
+{
+  "paramCageSimplifier": {
+    "maxIter": 50,
+    "relaxErrorIterStep": 5,
+    "maxErrorRelaxIter": 4,
+    "initError": 0.005,
+    "errorStep": 0.005,
+    "paramCollapse": {
+      "maxValence": 8
+    },
+    "paramFlip": {
+      "maxValence": 8
+    }
+  }
+}
